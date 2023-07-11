@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%-24s\n" "BEST=School"
+printf "%-24s\2" "BEST=School"

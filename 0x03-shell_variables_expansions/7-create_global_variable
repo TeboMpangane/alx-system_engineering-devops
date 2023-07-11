@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "BEST = School"
+printf "%-11s\n" "BEST=School"; printf "%-11s\n" "BEST=School"
